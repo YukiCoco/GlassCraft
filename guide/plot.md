@@ -10,5 +10,5 @@
 给与一名玩家在自己地皮的破坏权限，但他只在**宅主在线**时有破坏权限
 
 ### 合并地皮  
-`/plot merge all removeroads`  
-合并两块地皮，需要彼此都具有 `trust` 权限的玩家才能执行此指令
+`/plot merge [n|e|w|s] removeroads`  
+合并两块地皮，其中 ` [n|e|w|s]` 为方向，需要彼此都具有 `trust` 权限的玩家才能执行此指令
